@@ -3,7 +3,7 @@ n2 = int( input("Enter second number: ")
 op = input("Enter the operator [ +, -, *, /]: " )
 
 if op == "+":
-    print("Ans is", n1 ++ n2)
+    print("Ans is", n1 + n2)
 
 elif op == "-":
     print("Ans is", n1 - n2)
